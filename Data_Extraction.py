@@ -3,7 +3,7 @@
 Created on Tue May 16 10:57:35 2023
 
 @author: Ashish Bahuguna
-         epartment of Earthquake Engineering
+         Department of Earthquake Engineering
          IIT Roorkee, Uttarakhand
          email: bahugunaashish92@gmail.com
                 abahuguna1@eq.iitr.ac.in
