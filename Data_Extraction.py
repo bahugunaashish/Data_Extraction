@@ -2,7 +2,12 @@
 """
 Created on Tue May 16 10:57:35 2023
 
-@author: Administrator
+@author: Ashish Bahuguna
+         epartment of Earthquake Engineering
+         IIT Roorkee, Uttarakhand
+         email: bahugunaashish92@gmail.com
+                abahuguna1@eq.iitr.ac.in
+         
 """
 
 import pandas as pd
