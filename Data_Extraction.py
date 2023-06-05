@@ -7,9 +7,7 @@ Created on Tue May 16 10:57:35 2023
          IIT Roorkee, Uttarakhand
          email: bahugunaashish92@gmail.com
                 abahuguna1@eq.iitr.ac.in
-         
 """
-
 import pandas as pd
 import numpy as np
 import os
@@ -59,7 +57,7 @@ def get_index(path):
 
 path1= 'E:/AshishBahuguna/New folder/output-852-disagg-csv/'
 dir_list =  get_list_files (path1)
-fname_path = create_path_list (dir_list,path1)
+fname_path = create_path_list (dir_list, path1)
 
 #print(fname_path)
 
